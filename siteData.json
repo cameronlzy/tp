@@ -71,7 +71,12 @@
       "src": "Documentation.md",
       "title": "Documentation guide",
       "headings": {
-        "documentation-guide": "Documentation Guide"
+        "documentation-guide": "Documentation Guide",
+        "editing-markbind-documentation": "Editing Markbind Documentation",
+        "content-files": "Content Files",
+        "adding-new-pages": "Adding New Pages",
+        "file-organization": "File Organization",
+        "referencing-assets": "Referencing Assets"
       },
       "headingKeywords": {}
     },
